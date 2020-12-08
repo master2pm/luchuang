@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-api/dubbo.api.iml" filepath="$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-api/dubbo.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/luchuang.iml" filepath="$PROJECT_DIR$/.idea/luchuang.iml" />
+    </modules>
+  </component>
+</project>

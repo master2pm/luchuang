@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../gitDemo/Seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../gitDemo/mistra-dubbo/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../常笑/合家欢后台(微服务架构)/NettySocketIoIM-boot2-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../常笑/合家欢后台(微服务架构)/Xxw-Microservice-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../常笑/合家欢后台(微服务架构)/Xxw-Microservice-springcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>
